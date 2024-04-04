@@ -5,7 +5,7 @@ contains exercise for dans laboratory
 
 | S.No | Date | Name of the Experiment | Pg.No | Sign |
 |------|------|------------------------|-------|------|
-| 1    |      | [CREATION OF TABLES (DDL, DML COMMANDS)](Ex-1.md) |       |      |
+| 1    |      | [CREATION OF TABLES (DDL, DML COMMANDS)](ex1/Ex-1.md) |       |      |
 | 2    |      | CREATION OF TABLES WITH CONSTRAINTS   |       |      |
 | 3    |      | WHERE CLAUSE CONDITIONS AND AGGREGATE FUNCTIONS   |       |      |
 | 4    |      | SIMPLE JOIN OPERATIONS   |       |      |
